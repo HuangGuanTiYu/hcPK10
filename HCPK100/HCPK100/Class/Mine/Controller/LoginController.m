@@ -2,7 +2,7 @@
 //  LoginController.m
 //  Qihuo
 //
-//  Created by 顾海波 on 2018/3/2.
+//  Created by   on 2018/3/2.
 //  Copyright © 2018年 com.qihuo. All rights reserved.
 //
 
